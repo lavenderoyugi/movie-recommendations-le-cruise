@@ -22,7 +22,7 @@ link = "https://raw.githubusercontent.com/Lovelylove03/le-cruise/main/df_ml%20-%
 df= pd.read_csv(link)
 df_copy = df.copy()
 
-st.title('Système de recommandations de films')
+st.title('MOVIES AU CINEMA DE LA CRUISE ')
 st.divider()
 col1, col2, col3= st.columns(3)
 
