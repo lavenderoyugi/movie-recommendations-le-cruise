@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 
-
-title_principals_movies = pd.read_csv("title_principals_movies.csv.",sep=';')
+title_principals_movies = pd.read_csv("title_principals_movies.csv", sep=';')
 title_principals_movies_copy = title_principals_movies
 
 
