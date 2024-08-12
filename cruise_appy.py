@@ -19,7 +19,7 @@ st.image(background_image_path, use_column_width=True)
 
 url = 'https://image.tmdb.org/t/p/original'
 
-link = "df_ml.csv"
+link = "https://raw.githubusercontent.com/Lovelylove03/le-cruise/main/df_ml%20-%20df_ml.csv"
 df= pd.read_csv(link)
 df_copy = df.copy()
 
