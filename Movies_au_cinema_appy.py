@@ -10,7 +10,7 @@ title_principals_movies_copy = title_principals_movies
 
 
 # Chargez l'image de fond
-background_image_path =("contraste.jpg")  # Remplacez par le chemin de votre image
+background_image_path =("contraste.jpg")  
 st.image(background_image_path, use_column_width=True)
 
 
